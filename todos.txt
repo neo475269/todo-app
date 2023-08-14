@@ -1,8 +1,4 @@
-clean
-play
-Clean the codes
-Buy plants
-Anything
-Help
-Walk
-Do homework
+run
+make
+jump
+splint
